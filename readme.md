@@ -3,7 +3,7 @@
 ## How to use this archive
 ***
 
-Hellow Ninjas! 
+Hello Ninjas! 
 
 This repository is a place for you to review the code of any exercises or demos that we may have done in class. You can find each individual project in the folder corresponding to the specific week that the demo was done.
 
