@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+/* div {
+    background-color: bisque;
+}
+div p{
+    background-color: turquoise;
+} */
+.redBackground {
+    background-color: red;
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+}
+/* .blueLetters{
+    color: blue;
+}
+#blueBackground :first-child{
+    background-color: black;
+} */
+#blueBackground {
+    background-color: blue;
+    width: 400px;
+    height: 400px;
+
+    display: inline-block;
+}
