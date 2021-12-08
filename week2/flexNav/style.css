@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+
+.wrapper {
+    width: 1000px;
+}
+a {
+    text-decoration: none;
+}
+
+.nav {
+    background-color: #404040;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.nav-links {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 40%;
+}
+
+.btn {
+    background-color: cadetblue;
+    box-shadow: black;
+    padding: 5px;
+}
+
+.active {
+    font-weight: bold;
+}
