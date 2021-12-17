@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container {
+    width: 1000px;
+    margin: 0px auto;
+}
+.nav {
+    background-color: black;
+    color: white;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-left {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 40%;
+}
+.nav-left a {
+    color: white;
+    text-decoration: none;;
+}
+.nav-right {
+    color: white;
+    background-color: cadetblue;
+    padding: 5px;
+}
+.blue-stripe {
+    width: 300px;
+    height: 75px;
+    background-color: cadetblue;
+}
+.main-content {
+    padding-top: 25px;
+}
